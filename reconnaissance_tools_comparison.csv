@@ -1,0 +1,9 @@
+Tool,Type,Speed,Sources,API_Keys,Output_Quality,False_Positives,Memory_Usage
+Subfinder,Passive,Fast,55+,Optional,High,Low,Low
+AssetFinder,Passive,Very Fast,10+,No,Medium,Medium,Very Low
+Amass,Passive/Active,Medium,100+,Optional,Very High,Very Low,Medium
+BBOT,Active,Slow,50+,Optional,High,Low,High
+FFUF,Active,Medium,Brute Force,No,Medium,High,Low
+Subdog,Passive,Fast,20+,No,Medium,Medium,Low
+Sudomy,Passive/Active,Medium,30+,Optional,High,Low,Medium
+DNScan,Active,Fast,Brute Force,No,Medium,High,Low

@@ -419,12 +419,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Community Support
 - **GitHub Issues**: [Create an issue](https://github.com/yourusername/recon-automation-suite/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/recon-automation-suite/discussions)
-- **Discord**: [Join our community server](https://discord.gg/your-invite)
+
 
 ### Professional Support
 For enterprise support, custom development, or training:
-- **Email**: support@yourcompany.com
-- **Website**: https://yourcompany.com
+- **Email**: youseefhamdi329@gmail.com
 
 ## ⭐ Star History
 

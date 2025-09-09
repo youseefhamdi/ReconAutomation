@@ -5,7 +5,7 @@ script_content = '''#!/bin/bash
 
 # =============================================================================
 # Advanced Reconnaissance Automation Script
-# Author: Cybersecurity Automation
+# Author: Cybersecurity Automation 
 # Description: Comprehensive reconnaissance workflow automation
 # =============================================================================
 
